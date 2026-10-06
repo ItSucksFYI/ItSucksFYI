@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="featured-image-social.png" alt="IT SUCKS!" width="100%">
+  <img src="featured-image-social.png" alt="Project IT SUCKS!" width="100%">
 </p>
 
 # IT SUCKS!
